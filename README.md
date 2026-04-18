@@ -48,7 +48,7 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 
 ## Tentang Saya
 
-Hai, saya Faris Edrik P (username GitHub: `rissss21`).
+Hai, saya Muh. Arya Pangestu (username GitHub: `F4ntaB0y`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
 * **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)

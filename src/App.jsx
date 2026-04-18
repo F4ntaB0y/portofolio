@@ -72,7 +72,7 @@ function App() {
       </div>
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-        <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
+        <div className="hero grid lg:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
           <div className="animate__animated animate__fadeInUp animate__delay-3s">
             <div className="flex items-center gap-3 mb-6 bg bg-zinc-800 w-fit p-4 rounded-2xl">
               <img src="./assets/estu1.png" className="w-10 rounded-md" />
@@ -103,7 +103,7 @@ function App() {
             </div>
 
           </div>
-          <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
+          <div className="lg:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
             <ProfileCard
               name="AryaPangestu"
               title="Informatic Student"
@@ -120,8 +120,8 @@ function App() {
         </div>
         {/* tentang */}
         <div className="mt-15 mx-auto w-full max-w-[1600px] rounded-3xl border-[3px] sm:border-[5px] border-violet-500/40 shadow-[0_0_30px_rgba(168,85,247,0.4)] bg-gradient-to-br from-[#0a0a0a] via-[#111111] to-[#1a1a1a] p-4 sm:p-6" id="about">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-10 pt-0 px-2 sm:px-8" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
-            <div className="basis-full md:basis-7/12 pr-0 md:pr-8 border-b md:border-b-0 md:border-r border-violet-500/30">
+          <div className="flex flex-col lg:flex-row items-center justify-between gap-10 pt-0 px-2 sm:px-8" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+            <div className="basis-full lg:basis-7/12 pr-0 lg:pr-8 border-b lg:border-b-0 lg:border-r border-violet-500/30">
               {/* Kolom kiri */}
               <div className="flex-1 text-left">
                 <h2 className="text-3xl md:text-4xl font-bold text-white mb-5">
@@ -169,7 +169,7 @@ function App() {
             </div>
 
             {/* Kolom kanan */}
-            <div className="basis-full md:basis-5/12 pl-0 md:pl-8 overflow-hidden max-w-full flex justify-center ">
+            <div className="basis-full lg:basis-5/12 pl-0 lg:pl-8 overflow-hidden max-w-full flex justify-center ">
               <Lanyard position={[0, 0, 15]} gravity={[0, -40, 0]} />
             </div>
           </div>
@@ -248,7 +248,7 @@ function App() {
           </p>
 
           {/* Container dua kolom */}
-          <div className="flex flex-col md:flex-row gap-8">
+          <div className="flex flex-col lg:flex-row gap-8">
             {/* Chat Room di kiri */}
             <div className="flex-1 bg-zinc-800 p-6 rounded-md" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400" data-aos-once="true">
               <ChatRoom />
