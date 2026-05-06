@@ -1,6 +1,6 @@
 # Portofolio Web
 
-Selamat datang di portofolio web pribadi saya! 🌐  
+Selamat datang di portofolio web pribadi saya!
 Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya yang ingin saya bagikan.
 
 ##  Struktur Project
@@ -22,7 +22,7 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
+git clone https://github.com/.../portofolio.git
 cd portofolio
 ````
 
@@ -51,11 +51,11 @@ Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahka
 Hai, saya Muh. Arya Pangestu (username GitHub: `F4ntaB0y`).
 Saya seorang Developer yang suka bikin aplikasi web ringan dengan tampilan modern dan performa tinggi. Scroll aja di project saya, dan jangan sungkan untuk reach out kalau ada pertanyaan!
 
-* **Email:** [email\_farisedrik21@gmail.com](mailto:email_farisedrik21@gmail.com)
-* **LinkedIn:** [linkedin.com/in/farisedp](https://www.linkedin.com/in/farisedp/)
-* **Instagram:** @farisedrikprayoga
+* **Email:** [email\_aryapangestu2024@gmail.com](mailto:email_aryapangestu2024@gmail.com)
+* **LinkedIn:** [linkedin.com/in/...](https://www.linkedin.com/in/.../)
+* **Instagram:** @aryapangestu23
 
 ---
 
 
-[1]: https://github.com/rissss21/portofolio "GitHub - rissss21/portofolio"
+[1]: https://github.com/.../portofolio "GitHub - .../portofolio"
